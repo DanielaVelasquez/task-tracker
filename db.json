@@ -9,13 +9,13 @@
     {
       "text": "fsda",
       "day": "fds",
-      "reminder": false,
+      "reminder": true,
       "id": 3
     },
     {
       "text": "fgds",
       "day": "fsadf",
-      "reminder": false,
+      "reminder": true,
       "id": 4
     }
   ]
